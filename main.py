@@ -94,8 +94,8 @@ mn = input("Enter the launch angle in degrees")
 theta = np.radians(int(mn))  # launch angle
 dt = 0.01  # small time?
 
-xpos = 1.000001 * r * np.cos(lat)  # launch location
-ypos = 1.000001 * r * np.sin(lat)
+xpos = 1.01 * r * np.cos(lat)  # launch location
+ypos = 1.01 * r * np.sin(lat)
 
 Vx = u * np.cos(theta)  # launch velocity components
 Vy = u * np.sin(theta)
