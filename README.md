@@ -9,3 +9,8 @@ Download the code, unzip it, and run it on any python IDE.
 It will ask the user for the initial launch velocity and the launch angle.
 
 It will print out the landing range, landing latitude and the plot the trajectory of the projectile.
+
+# Some interesting inputs
+
+initial velocity  launch angle  remarks
+
