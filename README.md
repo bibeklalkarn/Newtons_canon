@@ -6,9 +6,9 @@ The code is in main.py file.
 # Using the code
 -	Download the code, unzip it, and run it on any python IDE.
 
--	You can use google colaboratory(https://colab.research.google.com/) to run either on mobile or browser if you dont have a python IDE.
+-	You can use google colaboratory(https://colab.research.google.com/) to run either on mobile or browser if you do not have any python IDE installed on your devices.
 
- 	-	Copy and paste the code in one cell in the Google Colab and run it
+ 	-	Copy and paste the code in one cell in the Google Colab and run it.
 
 -	It will ask the user for the initial launch velocity and the launch angle.
 
