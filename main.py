@@ -92,7 +92,7 @@ u = int(m)
 lat = np.radians(90)  # launch latitude
 mn = input("Enter the launch angle in degrees")
 theta = np.radians(int(mn))  # launch angle
-dt = 0.1  # small time?
+dt = 0.01  # small time?
 
 xpos = 1.000001 * r * np.cos(lat)  # launch location
 ypos = 1.000001 * r * np.sin(lat)
@@ -106,7 +106,7 @@ yin = ypos
 xo = []  # list to be filled with displacement values
 yo = []
 
-for i in range(500000):
+for i in range(1000000):
     xin, Vx = X(xin, yin, Vx, ax, dt)  # updating s and y positions 500000 times
     yin, Vy = Y(xin, yin, Vy, ay, dt)
 
