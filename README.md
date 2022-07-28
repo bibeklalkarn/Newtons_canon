@@ -17,7 +17,7 @@ The code is in The_main_stuff.py file.
 # Some interesting inputs
 |Initial velocity|Launch angle | Remarks|
 |----------------|----|------|
-| 6000 |                           45 |                 intercontinental missile trajectory |
+| 6000 |                           45 |                 Intercontinental missile trajectory |
 |8000|                           0|                            Low earth orbit|
 |11200(escape velocity)|         0|                          Parabolic trajectory|
 |12000(>escape velocity)|        0|                         Hyperbolic trajectory|
