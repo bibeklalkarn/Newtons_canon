@@ -15,7 +15,7 @@ The code is in The_main_stuff.py file.
 -	It will print out the landing range, landing latitude and the plot the trajectory of the projectile.
 
 # Some interesting inputs
-|initial velocity|launch angle | remarks|
+|Initial velocity|Launch angle | Remarks|
 |----------------|----|------|
 | 6000 |                           45 |                 intercontinental missile trajectory |
 |8000|                           0|                            Low earth orbit|
